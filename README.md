@@ -1,8 +1,9 @@
-<html lang="en"><head></head><body>
-
+<!DOCTYPE html>
+<html lang="en"></html>
+<head>
   <meta charset="utf-8">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
-  <title>JERRY profile</title>
+  <title>Joker profile</title>
 <style type="text/css">
 body {
     justify-content: center; 
@@ -87,41 +88,45 @@ footer a {
     color: #3c97bf;
     text-decoration: none;
   margin-right:5px;}
-</style>
-
+</style></head>
+<body>
 <container>
 <div class="site-border">
-<img src="https://j.top4top.io/p_2259kao601.png" class="avater">
-<p class="location"> <i class="fas fa-map-marker-alt"></i> UAE</p>
-<div class="full-name">MR JERRY</div>
+<img src="https://j.top4top.io/p_2093y6lcz0.png" class="avater">
+<p class="location"> <i class="fas fa-map-marker-alt"></i> QATAR ð¶ð¦ </p>
+<div class="full-name">MR joker</div>
 <div class="menu__container menu__container--2">
 <div class="menu">
-<a href="" <i="" class="">
+<a href="https://vv1ck.github.io/home"
+<i class=""></i>
  Website
 </a></div></div>
 <div class="menu__container menu__container--2">
 <div class="menu">
-<a href="https://www.snapchat.com/add/l3bot" <i="" class="fab fa-snapchat fa-5x">
+<a href="https://www.snapchat.com/add/jokermr5oos4800"
+<i class="fab fa-snapchat fa-5x"></i>
  Snapchat
 </a></div></div>
 <div class="menu__container menu__container--2">
 <div class="menu">
-<a href="https://instagram.com/2ccyc?utm_medium=copy_link" <i="" class="fab fa-instagram fa-5x">
+<a href="https://instagram.com/221298?utm_medium=copy_link"
+<i class="fab fa-instagram fa-5x"></i>
  Instagram
 </a></div></div>
 <div class="menu__container menu__container--2">
 <div class="menu">
-<a href="https://github.com/tu8/tu8.github.io" <i="" class="fab fa-github fa-5x">
+<a href="https://github.com/vv1ck"
+<i class="fab fa-github fa-5x"></i>
  GitHub
 </a></div></div>
 <div class="menu__container menu__container--2">
 <div class="menu">
-<a href="https://t.me/vothe" <i="" class="fab fa-telegram fa-5x">
+<a href="https://t.me/vv1ck"
+<i class="fab fa-telegram fa-5x"></i>
  Telegram
 </a></div></div>
 <br><br><br><br>
 <footer><p>Developed
 <i class="fa fa-heart"></i> by Joker
-</p></footer>
-
-</div></container></body></html>
+</footer>
+</body>
